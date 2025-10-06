@@ -159,3 +159,7 @@ Defines the courses, subjects, teachers, classrooms, days, and available time sl
 
 * Fitness Function: Measures how good a chromosome (timetable) is.
 ---
+
+## Author
+**Conor Dawson**  
+BSc (Hons) in Software Development 
